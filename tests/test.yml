@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - rancher-install-ansible-role
+    - rancher-install-cli-ansible-role
